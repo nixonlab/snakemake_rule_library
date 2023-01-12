@@ -3,3 +3,7 @@ resources/**
 logs/**
 .snakemake
 .snakemake/**
+
+
+.DS_Store
+.idea
